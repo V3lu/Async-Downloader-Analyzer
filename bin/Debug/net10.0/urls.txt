@@ -1,0 +1,3 @@
+﻿https://www.example.com
+https://www.microsoft.com
+https://www.learn.microsoft.com

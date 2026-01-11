@@ -6,5 +6,9 @@ namespace Async_Downloader
 {
     internal class Analyzer
     {
+        public void AnalyzePages(List<string> pages)
+        {
+
+        }
     }
 }

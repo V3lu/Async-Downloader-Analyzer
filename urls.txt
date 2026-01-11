@@ -1,1 +1,3 @@
-﻿
+﻿https://example.com"
+"https://www.microsoft.com"
+"https://learn.microsoft.com"

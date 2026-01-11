@@ -4,7 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Downloader downloader = new Downloader();
+            Analyzer analyzer = new Analyzer();
+
+            var pages = downloader.DownloadUrlsAsync();
+
+            Console.ReadKey();
         }
     }
 }

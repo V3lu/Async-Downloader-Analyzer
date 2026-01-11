@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Async_Downloader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d92fc24bd694739009fc46320a0ffbc0729de4ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("Async_Downloader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Async_Downloader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

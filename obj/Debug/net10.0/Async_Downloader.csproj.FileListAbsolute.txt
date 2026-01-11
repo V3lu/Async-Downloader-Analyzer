@@ -1,0 +1,15 @@
+C:\Users\aethi\source\repos\Async_Downloader\bin\Debug\net10.0\Async_Downloader.exe
+C:\Users\aethi\source\repos\Async_Downloader\bin\Debug\net10.0\Async_Downloader.deps.json
+C:\Users\aethi\source\repos\Async_Downloader\bin\Debug\net10.0\Async_Downloader.runtimeconfig.json
+C:\Users\aethi\source\repos\Async_Downloader\bin\Debug\net10.0\Async_Downloader.dll
+C:\Users\aethi\source\repos\Async_Downloader\bin\Debug\net10.0\Async_Downloader.pdb
+C:\Users\aethi\source\repos\Async_Downloader\obj\Debug\net10.0\Async_Downloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aethi\source\repos\Async_Downloader\obj\Debug\net10.0\Async_Downloader.AssemblyInfoInputs.cache
+C:\Users\aethi\source\repos\Async_Downloader\obj\Debug\net10.0\Async_Downloader.AssemblyInfo.cs
+C:\Users\aethi\source\repos\Async_Downloader\obj\Debug\net10.0\Async_Downloader.csproj.CoreCompileInputs.cache
+C:\Users\aethi\source\repos\Async_Downloader\obj\Debug\net10.0\Async_Downloader.sourcelink.json
+C:\Users\aethi\source\repos\Async_Downloader\obj\Debug\net10.0\Async_Downloader.dll
+C:\Users\aethi\source\repos\Async_Downloader\obj\Debug\net10.0\refint\Async_Downloader.dll
+C:\Users\aethi\source\repos\Async_Downloader\obj\Debug\net10.0\Async_Downloader.pdb
+C:\Users\aethi\source\repos\Async_Downloader\obj\Debug\net10.0\Async_Downloader.genruntimeconfig.cache
+C:\Users\aethi\source\repos\Async_Downloader\obj\Debug\net10.0\ref\Async_Downloader.dll
