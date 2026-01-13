@@ -13,7 +13,7 @@ namespace Async_Downloader
             using HttpClient client = new HttpClient();
             List<string> urls = new();
 
-            foreach (string line in File.ReadAllLines("urls.txt"))
+            foreach (string line in await File.ReadAllLinesAsync("urls.txt"))
             {
                 urls.Add(line);
             }
@@ -24,7 +24,14 @@ namespace Async_Downloader
 
             Console.WriteLine($"Downloaded {pages.Length} pages");
 
-            return pages.ToList();
+            List<Task> tasksList = new();
+            for(int i = 0; i < pages.Length; i++)
+            {
+                tasksList.Add(File.WriteAllTextAsync($"Page{i + 1}", pages[i]));
+            }
+
+            await Task.WhenAll(tasksList);
+            return [.. pages];
         }
     }
 }

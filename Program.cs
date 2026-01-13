@@ -1,13 +1,15 @@
-﻿namespace Async_Downloader
+﻿
+namespace Async_Downloader
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
             Downloader downloader = new Downloader();
             Analyzer analyzer = new Analyzer();
 
-            var pages = downloader.DownloadUrlsAsync();
+            List<string> pages = await downloader.DownloadUrlsAsync();
+            analyzer.AnalyzePages(pages);
 
             Console.ReadKey();
         }

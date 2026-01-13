@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\aethi\\source\\repos\\Async_Downloader\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1223CA5-E89A-CFF5-E7FC-DED1758B3B97}|Async_Downloader.csproj|c:\\users\\aethi\\source\\repos\\async_downloader\\downloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1223CA5-E89A-CFF5-E7FC-DED1758B3B97}|Async_Downloader.csproj|solutionrelative:downloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E1223CA5-E89A-CFF5-E7FC-DED1758B3B97}|Async_Downloader.csproj|c:\\users\\aethi\\source\\repos\\async_downloader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1223CA5-E89A-CFF5-E7FC-DED1758B3B97}|Async_Downloader.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1223CA5-E89A-CFF5-E7FC-DED1758B3B97}|Async_Downloader.csproj|c:\\users\\aethi\\source\\repos\\async_downloader\\urls.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{E1223CA5-E89A-CFF5-E7FC-DED1758B3B97}|Async_Downloader.csproj|solutionrelative:urls.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1223CA5-E89A-CFF5-E7FC-DED1758B3B97}|Async_Downloader.csproj|c:\\users\\aethi\\source\\repos\\async_downloader\\downloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1223CA5-E89A-CFF5-E7FC-DED1758B3B97}|Async_Downloader.csproj|solutionrelative:downloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1223CA5-E89A-CFF5-E7FC-DED1758B3B97}|Async_Downloader.csproj|c:\\users\\aethi\\source\\repos\\async_downloader\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1223CA5-E89A-CFF5-E7FC-DED1758B3B97}|Async_Downloader.csproj|solutionrelative:statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1223CA5-E89A-CFF5-E7FC-DED1758B3B97}|Async_Downloader.csproj|c:\\users\\aethi\\source\\repos\\async_downloader\\analyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 23,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,52 +110,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Statistics.cs",
+              "DocumentMoniker": "C:\\Users\\aethi\\source\\repos\\Async_Downloader\\Statistics.cs",
+              "RelativeDocumentMoniker": "Statistics.cs",
+              "ToolTip": "C:\\Users\\aethi\\source\\repos\\Async_Downloader\\Statistics.cs",
+              "RelativeToolTip": "Statistics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:02:12.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Downloader.cs",
               "DocumentMoniker": "C:\\Users\\aethi\\source\\repos\\Async_Downloader\\Downloader.cs",
               "RelativeDocumentMoniker": "Downloader.cs",
               "ToolTip": "C:\\Users\\aethi\\source\\repos\\Async_Downloader\\Downloader.cs",
               "RelativeToolTip": "Downloader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-11T15:56:58.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Analyzer.cs",
               "DocumentMoniker": "C:\\Users\\aethi\\source\\repos\\Async_Downloader\\Analyzer.cs",
               "RelativeDocumentMoniker": "Analyzer.cs",
               "ToolTip": "C:\\Users\\aethi\\source\\repos\\Async_Downloader\\Analyzer.cs",
               "RelativeToolTip": "Analyzer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-11T15:56:50.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "urls.txt",
               "DocumentMoniker": "C:\\Users\\aethi\\source\\repos\\Async_Downloader\\urls.txt",
               "RelativeDocumentMoniker": "urls.txt",
               "ToolTip": "C:\\Users\\aethi\\source\\repos\\Async_Downloader\\urls.txt",
               "RelativeToolTip": "urls.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2026-01-11T15:56:40.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\aethi\\source\\repos\\Async_Downloader\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\aethi\\source\\repos\\Async_Downloader\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-11T15:55:58.182Z",
               "EditorCaption": ""
