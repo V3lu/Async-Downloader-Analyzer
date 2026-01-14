@@ -8,6 +8,8 @@ namespace Async_Downloader
     {
         public void AnalyzePages(List<string> pages)
         {
+            int divcounter = pages.Count(eb => eb == "div");
+            Console.WriteLine($"Divs used in the page: {divcounter / 2}");
 
         }
     }
