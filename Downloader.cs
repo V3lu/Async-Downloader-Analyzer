@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using static System.Net.WebRequestMethods;
-using File = System.IO.File;
+﻿using File = System.IO.File;
 
 namespace Async_Downloader
 {
@@ -34,6 +30,8 @@ namespace Async_Downloader
             }
 
             await Task.WhenAll(tasksList);
+
+            //Modern C# list collection creating technique
             return [.. pages];
         }
     }
