@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\aethi\\source\\repos\\Async_Downloader\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E1223CA5-E89A-CFF5-E7FC-DED1758B3B97}|Async_Downloader.csproj|c:\\users\\aethi\\source\\repos\\async_downloader\\analyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1223CA5-E89A-CFF5-E7FC-DED1758B3B97}|Async_Downloader.csproj|solutionrelative:analyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E1223CA5-E89A-CFF5-E7FC-DED1758B3B97}|Async_Downloader.csproj|c:\\users\\aethi\\source\\repos\\async_downloader\\downloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1223CA5-E89A-CFF5-E7FC-DED1758B3B97}|Async_Downloader.csproj|solutionrelative:downloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1223CA5-E89A-CFF5-E7FC-DED1758B3B97}|Async_Downloader.csproj|c:\\users\\aethi\\source\\repos\\async_downloader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1223CA5-E89A-CFF5-E7FC-DED1758B3B97}|Async_Downloader.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1223CA5-E89A-CFF5-E7FC-DED1758B3B97}|Async_Downloader.csproj|c:\\users\\aethi\\source\\repos\\async_downloader\\analyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1223CA5-E89A-CFF5-E7FC-DED1758B3B97}|Async_Downloader.csproj|solutionrelative:analyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1223CA5-E89A-CFF5-E7FC-DED1758B3B97}|Async_Downloader.csproj|c:\\users\\aethi\\source\\repos\\async_downloader\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Downloader.cs",
               "DocumentMoniker": "C:\\Users\\aethi\\source\\repos\\Async_Downloader\\Downloader.cs",
               "RelativeDocumentMoniker": "Downloader.cs",
@@ -135,15 +135,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Analyzer.cs",
               "DocumentMoniker": "C:\\Users\\aethi\\source\\repos\\Async_Downloader\\Analyzer.cs",
               "RelativeDocumentMoniker": "Analyzer.cs",
               "ToolTip": "C:\\Users\\aethi\\source\\repos\\Async_Downloader\\Analyzer.cs",
               "RelativeToolTip": "Analyzer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T15:56:50.185Z"
+              "WhenOpened": "2026-01-11T15:56:50.185Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -159,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\aethi\\source\\repos\\Async_Downloader\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
